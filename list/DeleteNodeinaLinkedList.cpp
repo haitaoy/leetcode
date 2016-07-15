@@ -1,6 +1,3 @@
-//
-// Created by yanghaitao3 on 2016/7/15.
-//
 
 /**
  * Write a function to delete a node (except the tail) in a singly linked list, given only access to that node.
